@@ -10,7 +10,7 @@
              * - írd ki konzolra az összes filmhosszat a listából
              */
 
-            //2. írd ki, hogy hány 'film' van a lsitában
+            //2. írd ki, hogy hány 'film' van a listában
             
             //3. írd ki, hogy van-e 101 hosszú film a listában
 
