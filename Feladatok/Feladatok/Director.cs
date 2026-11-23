@@ -9,7 +9,7 @@ namespace Collections
     internal class Director
     {
         /*
-         * 11. feladat
+         * 11a. feladat
          *  property: string Name
          */
     }

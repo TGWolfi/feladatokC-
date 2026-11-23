@@ -9,7 +9,7 @@ namespace Collections
     internal class Movie
     {
         /*
-         * 11. feladat
+         * 11b. feladat
          * 
          * PROPERTYK
          *      - string Title
