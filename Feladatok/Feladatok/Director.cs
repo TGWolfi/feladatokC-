@@ -12,5 +12,7 @@ namespace Collections
          * 11a. feladat
          *  property: string Name
          */
+
+        public string Name { get; set; }
     }
 }
